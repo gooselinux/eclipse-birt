@@ -1,0 +1,32 @@
+--- features/org.eclipse.birt.chart.runtime/feature.xml.old	2008-06-30 14:30:28.000000000 +0200
++++ features/org.eclipse.birt.chart.runtime/feature.xml	2009-02-05 23:25:34.000000000 +0100
+@@ -189,13 +189,6 @@
+          unpack="false"/>
+ 
+    <plugin
+-         id="org.w3c.dom.smil"
+-         download-size="0"
+-         install-size="0"
+-         version="0.0.0"
+-         unpack="false"/>
+-
+-   <plugin
+          id="org.w3c.dom.svg"
+          download-size="0"
+          install-size="0"
+--- features/org.eclipse.birt.chart/feature.xml.orig	2009-06-09 10:37:12.000000000 +0300
++++ features/org.eclipse.birt.chart/feature.xml	2009-08-11 21:38:42.149411511 +0300
+@@ -205,13 +205,6 @@
+          unpack="false"/>
+ 
+    <plugin
+-         id="org.w3c.dom.smil"
+-         download-size="0"
+-         install-size="0"
+-         version="0.0.0"
+-         unpack="false"/>
+-
+-   <plugin
+          id="org.w3c.dom.svg"
+          download-size="0"
+          install-size="0"
